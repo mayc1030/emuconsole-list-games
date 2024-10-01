@@ -17,6 +17,15 @@
             "up_to_date": "5",
             "size": "52825",
             "screenshot": "https://raw.githubusercontent.com/mayc1030/emuconsole-list-games/main/covers/gbc/Mega-Man-Xtreme-2.jpg"
+        },
+        {
+            "theme": "Resident Evil 4",
+            "author": "Playstation 2",
+            "theme_url": "https://ps.romsfast.com/PS2-REDUMP-PAL/Resident%20Evil%204%20(Europe)%20(EnFrDeEsIt).7z?token=cHxYalJiRlNGGG9yWjhQZ1pWTBJwdFt3",
+            "last_update": "2005-01-11",
+            "up_to_date": "5",
+            "size": "306",
+            "screenshot": "https://raw.githubusercontent.com/mayc1030/emuconsole-list-games/main/covers/ps2/resident-evil-4.jpg"
         }
         
     ]
